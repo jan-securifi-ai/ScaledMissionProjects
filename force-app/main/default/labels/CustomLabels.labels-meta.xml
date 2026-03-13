@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Census_Demographic_Endpoint</fullName>
+        <categories>Census_Geocoding_Endpoint</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Census_Demographic_Endpoint</shortDescription>
+        <value>https://geocoding.geo.census.gov/geocoder/geographies/coordinates?</value>
+    </labels>
+    <labels>
+        <fullName>Custom_Label_Census_Demographic_Endpoint2</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Custom Label Census_Demographic_Endpoint2</shortDescription>
+        <value>https://geocoding.geo.census.gov/geocoder/geographies/address?</value>
+    </labels>
+</CustomLabels>

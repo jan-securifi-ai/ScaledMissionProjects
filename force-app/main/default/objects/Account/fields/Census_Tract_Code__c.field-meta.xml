@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Census_Tract_Code__c</fullName>
+    <externalId>false</externalId>
+    <formula>State_Code__c &amp; County_Code__c &amp; Tract_Code__c</formula>
+    <label>Census Tract Code</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>

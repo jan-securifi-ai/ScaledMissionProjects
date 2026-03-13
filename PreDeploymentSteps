@@ -1,0 +1,7 @@
+** Enable History Tracking on Account **
+
+- Go to Setup -> Object Manager
+- Open Account Object -> Go to Fields and Relationships
+- CLick Button Set History Tracking 
+- Check Enable Account History
+- Click Save
