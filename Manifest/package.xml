@@ -23,6 +23,7 @@
     </types>
     <types>
         <members>CensusHudUser</members>
+        <members>CensusTract</members>
         <name>RemoteSiteSetting</name>
     </types>
     <types>

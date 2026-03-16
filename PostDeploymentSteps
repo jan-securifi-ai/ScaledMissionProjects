@@ -5,3 +5,6 @@
 - Click Activation and activate as per client requirement
 
 Repeat above steps for FMR_Basic_Data__c,IL_Data_Low__c,IL_Data_Very_Low__c and IL_Data_Extremely_Low__c
+
+
+** Add Census Response Related List on parent object **

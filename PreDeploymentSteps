@@ -5,3 +5,9 @@
 - CLick Button Set History Tracking 
 - Check Enable Account History
 - Click Save
+
+** Enable Geocode **
+
+- Go to Setup
+- Search for Data Integration Rules
+- Make sure Geocode Addresses is enabled.
